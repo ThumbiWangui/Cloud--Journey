@@ -12,3 +12,18 @@ I’m transitioning into cloud to build solve real problems
 **How I document**
 Each project includes: problem → approach → commands/code → screenshots →
 lessons learned → what I'd do differently.
+## Projects
+
+### 01 - AWS S3 Static Website Migration with Terraform
+
+Migrated an Amazon S3 static website from Europe Stockholm (`eu-north-1`) to Middle East UAE (`me-central-1`) using Terraform and AWS CLI.
+
+**Skills practiced:**
+- Terraform basics
+- AWS S3 static website hosting
+- AWS CLI
+- Region migration
+- IAM credentials troubleshooting
+- Infrastructure as Code workflow
+
+[View Project](./01-s3-terraform-website-migration)
