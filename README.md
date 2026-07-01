@@ -27,3 +27,16 @@ Migrated an Amazon S3 static website from Europe Stockholm (`eu-north-1`) to Mid
 - Infrastructure as Code workflow
 
 [View Project](./01-s3-terraform-website-migration)
+### 02 - EC2 Snapshot and Server Recovery with Terraform
+
+Created an EC2 web server using Terraform, generated an AMI backup, and launched a recovered EC2 server from the backup image.
+
+**Skills practiced:**
+- EC2 provisioning
+- AMI backup creation
+- EBS snapshot recovery concept
+- Terraform state management
+- Region and availability zone troubleshooting
+- Infrastructure as Code recovery workflow
+
+[View Project](./02-ec2-snapshot-server-recovery)
